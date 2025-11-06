@@ -1,11 +1,11 @@
 {
   "ad_config": {
     "ad_units": {
-      "google_banner": "ca-app-pub-3940256099942544/6300978111",
-      "google_interstitial": "ca-app-pub-3940256099942544/1033173712",
-      "google_native": "ca-app-pub-3940256099942544/2247696110",
-      "google_rewarded": "ca-app-pub-3940256099942544/5224354917",
-      "google_app_open": "ca-app-pub-3940256099942544/3419835294",
+     "google_banner": "ca-app-pub-4393670141189849/7545190397",
+      "google_interstitial": "ca-app-pub-4393670141189849/6712837917",
+      "google_native": "ca-app-pub-4393670141189849/1895625504",
+      "google_rewarded": "ca-app-pub-4393670141189849/3156736280",
+      "google_app_open": "ca-app-pub-4393670141189849/8301251750",
       
       "facebook_banner": "815329847934337_815330717934250",
       "facebook_interstitial": "815329847934337_815330824600906",
