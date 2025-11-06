@@ -1,10 +1,11 @@
 {
-  "android": {
-    "app_id": "ca-app-pub-3940256099942544~3347511713",
-    "banner_ad_unit_id": "ca-app-pub-3940256099942544/6300978111",
-    "interstitial_ad_unit_id": "ca-app-pub-3940256099942544/1033173712",
-    "rewarded_ad_unit_id": "ca-app-pub-3940256099942544/5224354917",
-    "app_open_ad_unit_id": "ca-app-pub-3940256099942544/3419835294"
+   "android": {
+    "app_id": "ca-app-pub-4393670141189849~3347511713",
+    "banner_ad_unit_id": "ca-app-pub-4393670141189849/7545190397",
+    "interstitial_ad_unit_id": "ca-app-pub-4393670141189849/6712837917",
+    "native_ad_unit_id": "ca-app-pub-4393670141189849/1895625504",
+    "rewarded_ad_unit_id": "ca-app-pub-4393670141189849/3156736280",
+    "app_open_ad_unit_id": "ca-app-pub-4393670141189849/8301251750"
   },
   "ios": {
     "app_id": "ca-app-pub-9490496565812282~1816348152",
