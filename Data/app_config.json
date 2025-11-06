@@ -7,9 +7,10 @@
       "google_rewarded": "ca-app-pub-3940256099942544/5224354917",
       "google_app_open": "ca-app-pub-3940256099942544/3419835294",
       
-      "facebook_banner": "IMG_16_9_APP_INSTALL#YOUR_FACEBOOK_BANNER_PLACEMENT_ID",
-      "facebook_interstitial": "IMG_16_9_APP_INSTALL#YOUR_FACEBOOK_INTERSTITIAL_PLACEMENT_ID",
-      "facebook_rewarded": "VID_HD_16_9_15S_APP_INSTALL#YOUR_FACEBOOK_REWARDED_PLACEMENT_ID",
+      "facebook_banner": "815329847934337_815330717934250",
+      "facebook_interstitial": "815329847934337_815330824600906",
+      "facebook_native": "815329847934337_815330991267556",
+      "facebook_rewarded": "815329847934337_815331117934210",
       
       "unity_banner": "Banner_Android",
       "unity_interstitial": "Interstitial_Android",
@@ -29,13 +30,14 @@
       }
     }
   },
-   "facebook_mediation": {
+  "facebook_mediation": {
     "enabled": true,
-    "app_id": "YOUR_FACEBOOK_APP_ID",
+    "app_id": "1511379913523939",
     "placement_ids": {
-      "banner": "YOUR_PLACEMENT_ID",
-      "interstitial": "YOUR_PLACEMENT_ID",
-      "rewarded": "YOUR_PLACEMENT_ID"
+      "banner": "815329847934337_815330717934250",
+      "interstitial": "815329847934337_815330824600906",
+      "native": "815329847934337_815330991267556",
+      "rewarded": "815329847934337_815331117934210"
     }
   },
   "stripe_config": {
@@ -43,7 +45,7 @@
     "secret_key": "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",
     "merchant_identifier": "merchant.com.giga.minning",
     "merchant_display_name": "Giga Miner",
-    "demo_mode": true,
+    "demo_mode": false,
     "subscription_plans": {
       "1_month": {
         "name": "1 Month",
@@ -66,5 +68,3 @@
     }
   }
 }
-
-
