@@ -14,10 +14,11 @@
     "app_open_ad_unit_id": "ca-app-pub-3940256099942544/5572853021"
   },
   "facebook": {
-    "app_id": "YOUR_FACEBOOK_APP_ID",
-    "banner_ad_unit_id": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-    "interstitial_ad_unit_id": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-    "rewarded_ad_unit_id": "VID_HD_16_9_15S_APP_INSTALL#YOUR_PLACEMENT_ID"
+    "app_id": "1511379913523939",
+    "banner_ad_unit_id": "815329847934337_815330717934250",
+    "interstitial_ad_unit_id": "815329847934337_815330824600906",
+    "native_ad_unit_id": "815329847934337_815330991267556",
+    "rewarded_ad_unit_id": "815329847934337_815331117934210"
   },
   "unity": {
     "game_id": "1234567",
