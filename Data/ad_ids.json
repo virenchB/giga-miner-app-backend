@@ -1,18 +1,29 @@
 {
-   "android": {
+  "android": {
     "app_id": "ca-app-pub-4393670141189849~7451204518",
     "banner_ad_unit_id": "/21753324030,23317746049/com.giga.network.btc.mining.cloud.pro_Banner",
+    "banner_ad_unit_id_fallback": "ca-app-pub-4393670141189849/7545190397",
     "interstitial_ad_unit_id": "/21753324030,23317746049/com.giga.network.btc.mining.cloud.pro_Interstitial",
+    "interstitial_ad_unit_id_fallback": "ca-app-pub-4393670141189849/6712837917",
     "native_ad_unit_id": "/21753324030,23317746049/com.giga.network.btc.mining.cloud.pro_Native",
+    "native_ad_unit_id_fallback": "ca-app-pub-4393670141189849/1895625504",
     "rewarded_ad_unit_id": "/21753324030,23317746049/com.giga.network.btc.mining.cloud.pro_Rewarded",
-    "app_open_ad_unit_id": "/21753324030,23317746049/com.giga.network.btc.mining.cloud.pro_AppOpen"
+    "rewarded_ad_unit_id_fallback": "ca-app-pub-4393670141189849/3156736280",
+    "app_open_ad_unit_id": "/21753324030,23317746049/com.giga.network.btc.mining.cloud.pro_AppOpen",
+    "app_open_ad_unit_id_fallback": "ca-app-pub-4393670141189849/8301251750"
   },
   "ios": {
     "app_id": "ca-app-pub-9490496565812282~1816348152",
-    "banner_ad_unit_id": "ca-app-pub-3940256099942544/2934735716",
-    "interstitial_ad_unit_id": "ca-app-pub-3940256099942544/4411468910",
-    "rewarded_ad_unit_id": "ca-app-pub-3940256099942544/1712485313",
-    "app_open_ad_unit_id": "ca-app-pub-3940256099942544/5572853021"
+    "banner_ad_unit_id": "ca-app-pub-9490496565812282/YOUR_IOS_BANNER_ID",
+    "banner_ad_unit_id_fallback": "ca-app-pub-4393670141189849/7545190397",
+    "interstitial_ad_unit_id": "ca-app-pub-9490496565812282/YOUR_IOS_INTERSTITIAL_ID",
+    "interstitial_ad_unit_id_fallback": "ca-app-pub-4393670141189849/6712837917",
+    "native_ad_unit_id": "ca-app-pub-9490496565812282/YOUR_IOS_NATIVE_ID",
+    "native_ad_unit_id_fallback": "ca-app-pub-4393670141189849/1895625504",
+    "rewarded_ad_unit_id": "ca-app-pub-9490496565812282/YOUR_IOS_REWARDED_ID",
+    "rewarded_ad_unit_id_fallback": "ca-app-pub-4393670141189849/3156736280",
+    "app_open_ad_unit_id": "ca-app-pub-9490496565812282/YOUR_IOS_APP_OPEN_ID",
+    "app_open_ad_unit_id_fallback": "ca-app-pub-4393670141189849/8301251750"
   },
   "facebook": {
     "app_id": "1511379913523939",
@@ -34,7 +45,7 @@
       "rewarded_placement_id": "Rewarded_iOS"
     }
   },
-  "test_mode": true,
+  "test_mode": false,
   "ad_frequency": {
     "interstitial_interval": 3,
     "rewarded_ads_per_day": 10,
