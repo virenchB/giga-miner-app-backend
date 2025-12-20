@@ -1,7 +1,7 @@
 {
   "ad_config": {
     "ad_units": {
-     "google_banner": "ca-app-pub-4393670141189849/7545190397",
+      "google_banner": "ca-app-pub-4393670141189849/7545190397",
       "google_interstitial": "ca-app-pub-4393670141189849/6712837917",
       "google_native": "ca-app-pub-4393670141189849/1895625504",
       "google_rewarded": "ca-app-pub-4393670141189849/3156736280",
@@ -65,6 +65,43 @@
         "speed_multiplier": 5.0,
         "computing_power": "220 TH/s"
       }
+    }
+  },
+  "google_iap_config": {
+    "enabled": true,
+    "package_name": "com.giga.network.btc.mining.cloud.pro",
+    "product_ids": {
+      "1_month": "com.giga.network.btc.mining.cloud.pro.subscription.1month",
+      "3_month": "com.giga.network.btc.mining.cloud.pro.subscription.3month",
+      "6_month": "com.giga.network.btc.mining.cloud.pro.subscription.6month"
+    },
+    "subscription_plans": {
+      "1_month": {
+        "name": "1 Month",
+        "price": 210,
+        "speed_multiplier": 2.0,
+        "computing_power": "150 TH/s",
+        "product_id": "com.giga.network.btc.mining.cloud.pro.subscription.1month"
+      },
+      "3_month": {
+        "name": "3 Month",
+        "price": 530,
+        "speed_multiplier": 3.0,
+        "computing_power": "180 TH/s",
+        "product_id": "com.giga.network.btc.mining.cloud.pro.subscription.3month"
+      },
+      "6_month": {
+        "name": "6 Month",
+        "price": 810,
+        "speed_multiplier": 5.0,
+        "computing_power": "220 TH/s",
+        "product_id": "com.giga.network.btc.mining.cloud.pro.subscription.6month"
+      }
+    },
+    "server_verification": {
+      "enabled": false,
+      "service_account_email": "",
+      "verification_url": ""
     }
   }
 }
