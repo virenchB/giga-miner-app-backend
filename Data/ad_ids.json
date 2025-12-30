@@ -1,16 +1,16 @@
 {
   "android": {
     "app_id": "ca-app-pub-4393670141189849~7451204518",
-    "banner_ad_unit_id": "/21753324030,23317746049/com.giga.network.btc.mining.cloud.pro_Banner",
-    "banner_ad_unit_id_fallback": "/21753324030,23317746049/com.giga.network.btc.mining.cloud.pro_Banner",
-    "interstitial_ad_unit_id": "/21753324030,23317746049/com.giga.network.btc.mining.cloud.pro_Interstitial",
-    "interstitial_ad_unit_id_fallback": "/21753324030,23317746049/com.giga.network.btc.mining.cloud.pro_Interstitial",
-    "native_ad_unit_id": "/21753324030,23317746049/com.giga.network.btc.mining.cloud.pro_Native",
-    "native_ad_unit_id_fallback": "/21753324030,23317746049/com.giga.network.btc.mining.cloud.pro_Native",
-    "rewarded_ad_unit_id": "/21753324030,23317746049/com.giga.network.btc.mining.cloud.pro_Rewarded",
-    "rewarded_ad_unit_id_fallback": "/21753324030,23317746049/com.giga.network.btc.mining.cloud.pro_Rewarded",
-    "app_open_ad_unit_id": "/21753324030,23317746049/com.giga.network.btc.mining.cloud.pro_AppOpen"
-    "app_open_ad_unit_id_fallback": "/21753324030,23317746049/com.giga.network.btc.mining.cloud.pro_AppOpen"
+    "banner_ad_unit_id": "",
+    "banner_ad_unit_id_fallback": "",
+    "interstitial_ad_unit_id": "",
+    "interstitial_ad_unit_id_fallback": "",
+    "native_ad_unit_id": "",
+    "native_ad_unit_id_fallback": "",
+    "rewarded_ad_unit_id": "",
+    "rewarded_ad_unit_id_fallback": "",
+    "app_open_ad_unit_id": ""
+    "app_open_ad_unit_id_fallback": ""
   },
   "ios": {
     "app_id": "ca-app-pub-9490496565812282~1816348152",
